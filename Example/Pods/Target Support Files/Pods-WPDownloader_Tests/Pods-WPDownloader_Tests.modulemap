@@ -1,0 +1,6 @@
+framework module Pods_WPDownloader_Tests {
+  umbrella header "Pods-WPDownloader_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

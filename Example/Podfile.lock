@@ -1,0 +1,16 @@
+PODS:
+  - WPDownloader (0.1.0)
+
+DEPENDENCIES:
+  - WPDownloader (from `../`)
+
+EXTERNAL SOURCES:
+  WPDownloader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WPDownloader: d704b4a93409849d117eb04b19ef1bae05c541ff
+
+PODFILE CHECKSUM: fdd057ae36d15b47832ac5e4d93ac8b4965b7fa2
+
+COCOAPODS: 1.10.1

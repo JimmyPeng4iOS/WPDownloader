@@ -1,0 +1,6 @@
+framework module WPDownloader {
+  umbrella header "WPDownloader-umbrella.h"
+
+  export *
+  module * { export * }
+}
